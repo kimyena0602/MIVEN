@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap');
+/* 바다_표지 1 */
+body
+{
+
+background : url('바다_표지1.png');
+}
+/* WE ARE GARDENERS */
+h1{
+
+
+position: absolute;
+width: 579px;
+height: 96px;
+left: calc(50% - 579px/2 - 0.5px);
+top: 183px;
+
+font-family: 'Zen Kaku Gothic New', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 160%;
+/* identical to box height, or 96px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+p{
+    /* Wellcome */
+
+position: absolute;
+width: 123px;
+height: 48px;
+left: calc(50% - 123px/2 + 0.5px);
+top: 146px;
+
+font-family: 'Zen Kaku Gothic New';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 160%;
+/* identical to box height, or 48px */
+text-align: center;
+
+color: #4C5D91;
+
+
+}
+.레이어{
+    width: 118px;
+    height: 36px;
+    margin-left: calc(53% - 118px/2 - 841px);
+    margin-top: 49px;
+    }
+
+
