@@ -18,7 +18,7 @@ setInterval(function(){
    if($("#video").prop("ended")){
     
     //영상종료 후 어떤행동을 할건지 작성
-    location.href="/html/index/index.php";
+    location.href="/http://127.0.0.1:3000/mivenproject";
    
    }
 },200);

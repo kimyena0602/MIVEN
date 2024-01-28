@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        
         <meta charset="UTF-8">
         <title>MivenProject</title>
         <link rel="stylesheet" href="mivenproject.css">
     </head>
         <body>
-            <div>
-                <video id="video" width="1920" height="1080" src="./00. intro_main (1).mp4" muted autoplay playsinline></video>
-            </div>
+            <img id="바다_표지" src="C:\MIVEN\바다_표지1.png">
             <h1>WE ARE GARDENERS</h1>
             <p>Wellcome</p>
             <div class="레이어">
                 <img src="_레이어_2.png">
             </div>
             <div class="group2">
-                <img src="Group2.svg">
+                <img src="Group2.png">
             </div>
            
         </body>
